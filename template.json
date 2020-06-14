@@ -1,17 +1,7 @@
 [
   {
-    "name": "pc-ejs",
-    "name_with_namespace": "cdc-vendor/template-pc-ejs",
-    "https_url_to_repo": "https://git.code.tencent.com/cdc-vendor/pc-ejs.git"
-  },
-  {
-    "name": "h5-ejs",
-    "name_with_namespace": "cdc-vendor/template-h5-ejs",
-    "https_url_to_repo": "https://git.code.tencent.com/cdc-vendor/template-h5-ejs.git"
-  },
-  {
-    "name": "h5-vue",
-    "name_with_namespace": "cdc-vendor/template-h5-vue",
-    "https_url_to_repo": "https://git.code.tencent.com/cdc-vendor/template-h5-vue.git"
+    "name": "template-multipage-example",
+    "name_with_namespace": "cdc-vendor-standard / template-multipage-example",
+    "https_url_to_repo": "https://git.code.tencent.com/cdc-vendor-standard/template-multipage-example.git"
   }
 ]
