@@ -1,7 +1,12 @@
 [
   {
     "name": "template-multipage-example",
-    "name_with_namespace": "cdc-vendor-standard / template-multipage-example",
+    "name_with_namespace": "cdc-vendor-standard/template-multipage-example",
     "https_url_to_repo": "https://git.code.tencent.com/cdc-vendor-standard/template-multipage-example.git"
+  },
+  {
+    "name": "template-h5-example",
+    "name_with_namespace": "cdc-vendor-standard / template-h5-example ",
+    "https_url_to_repo": "https://git.code.tencent.com/cdc-vendor-standard/template-h5-example.git"
   }
 ]
